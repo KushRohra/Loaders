@@ -16,3 +16,16 @@ body{
     min-height: 100vh;
 }
 
+a{
+    align-items: left;
+    margin: 10px;
+    background-color: #ccc;
+    color: white;
+    padding: 1em 1.5em;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+a:hover {
+    cursor: pointer;
+}
